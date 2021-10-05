@@ -4,7 +4,7 @@
 
 ## With that in mind I implemented a word template using Mailmerge. Python was the language used in this project, to make this work I used MailMerge to parse data from the spreadsheet containing the candidates response into the Template.
 
-## Libraries used for data cleaning:
+## Libraries used :
 
 ## 1. Pandas
 ## 2. MailMerge
